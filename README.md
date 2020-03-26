@@ -22,3 +22,12 @@ DANCED - JS - verbs -- making server calls, dynamic behaviour of html
   * fit in alongside other elements
 * Block Levele Elements
   * take up a whole block of space
+
+
+## Elements
+
+* span 
+  * generic inline container
+* div
+  * generic container for flow content
+  * block level elemnt
